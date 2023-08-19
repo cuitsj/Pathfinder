@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SPI1_MOSI Pin=U4-119
+Removed Pin From Net: NetName=SPI1_MISO Pin=U4-120
+Removed Pin From Net: NetName=SPI1_SCK Pin=U4-121
+Removed Pin From Net: NetName=SPI1_NSS Pin=U4-124
+Removed Pin From Net: NetName=USART1_RX Pin=U4-125
+Removed Pin From Net: NetName=USART1_TX Pin=U4-126
+Added Pin To Net: NetName=USART1_TX Pin=U4-119
+Added Pin To Net: NetName=USART1_RX Pin=U4-120
+Added Pin To Net: NetName=SPI1_NSS Pin=U4-121
+Added Pin To Net: NetName=SPI1_SCK Pin=U4-124
+Added Pin To Net: NetName=SPI1_MISO Pin=U4-125
+Added Pin To Net: NetName=SPI1_MOSI Pin=U4-126
+Added Room: Name=pathfinder_sch

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=POWER_OFF Pin=U13-35
+Added Pin To Net: NetName=POWER_OFF Pin=U13-62
+Added Member To Class: ClassName=pathfinder_sch Member=Component C44 1uF
+Added Room: Name=pathfinder_sch

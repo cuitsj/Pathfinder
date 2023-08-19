@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=BAT- Pin=CN11-1
+Removed Pin From Net: NetName=BAT1+ Pin=CN11-2
+Removed Pin From Net: NetName=BAT2+ Pin=CN11-3
+Removed Pin From Net: NetName=BAT+ Pin=CN11-4
+Removed Pin From Net: NetName=BAT- Pin=CN12-1
+Removed Pin From Net: NetName=BAT1+ Pin=CN12-2
+Removed Pin From Net: NetName=BAT2+ Pin=CN12-3
+Removed Pin From Net: NetName=BAT+ Pin=CN12-4
+Added Pin To Net: NetName=BAT+ Pin=CN11-1
+Added Pin To Net: NetName=BAT2+ Pin=CN11-2
+Added Pin To Net: NetName=BAT1+ Pin=CN11-3
+Added Pin To Net: NetName=BAT- Pin=CN11-4
+Added Pin To Net: NetName=BAT+ Pin=CN12-1
+Added Pin To Net: NetName=BAT2+ Pin=CN12-2
+Added Pin To Net: NetName=BAT1+ Pin=CN12-3
+Added Pin To Net: NetName=BAT- Pin=CN12-4
+Added Member To Class: ClassName=pathfinder_sch Member=Component D1 SMAJ15A
+Added Room: Name=pathfinder_sch

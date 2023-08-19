@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=TOF4_SCL Pin=U4-32
+Removed Pin From Net: NetName=TOF4_SDA Pin=U4-33
+Removed Pin From Net: NetName=TOF4_INT Pin=U4-34
+Removed Pin From Net: NetName=TOF2_SCL Pin=U4-66
+Removed Pin From Net: NetName=TOF2_SDA Pin=U4-67
+Removed Pin From Net: NetName=TOF2_INT Pin=U4-68
+Added Pin To Net: NetName=TOF2_SCL Pin=U4-32
+Added Pin To Net: NetName=TOF2_SDA Pin=U4-33
+Added Pin To Net: NetName=TOF2_INT Pin=U4-34
+Added Pin To Net: NetName=TOF4_SCL Pin=U4-98
+Added Pin To Net: NetName=TOF4_SDA Pin=U4-99
+Added Pin To Net: NetName=TOF4_INT Pin=U4-100
+Added Room: Name=pathfinder_sch

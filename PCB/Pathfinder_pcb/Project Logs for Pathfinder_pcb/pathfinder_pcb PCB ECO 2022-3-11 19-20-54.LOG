@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=TOF7_SCL Pin=U4-128
+Removed Pin From Net: NetName=TOF7_SDA Pin=U4-129
+Removed Pin From Net: NetName=TOF7_INT Pin=U4-132
+Added Pin To Net: NetName=TOF7_SCL Pin=U4-1
+Added Pin To Net: NetName=TOF7_SDA Pin=U4-2
+Added Pin To Net: NetName=TOF7_INT Pin=U4-3
+Added Room: Name=pathfinder_sch

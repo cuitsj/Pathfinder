@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [pathfinder_pcb.PcbDoc]
+   Generated File[Fabrication Testpoint Report for pathfinder_pcb.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:56:07 On 2022/3/14

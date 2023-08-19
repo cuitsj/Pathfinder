@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MODE Pin=U13-49
+Added Pin To Net: NetName=MODE Pin=U13-46
+Added Room: Name=pathfinder_sch

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=ADC0_IN5 Pin=R13-2
+Removed Pin From Net: NetName=ADC0_IN5 Pin=R14-1
+Removed Pin From Net: NetName=ADC0_IN6 Pin=R17-2
+Removed Pin From Net: NetName=ADC0_IN6 Pin=R18-1
+Added Pin To Net: NetName=ADC0_IN6 Pin=R13-2
+Added Pin To Net: NetName=ADC0_IN6 Pin=R14-1
+Added Pin To Net: NetName=ADC0_IN5 Pin=R17-2
+Added Pin To Net: NetName=ADC0_IN5 Pin=R18-1
+Added Room: Name=pathfinder_sch

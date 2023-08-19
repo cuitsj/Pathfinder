@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=USART1_TX Pin=U4-128
+Removed Pin From Net: NetName=USART1_RX Pin=U4-129
+Added Pin To Net: NetName=USART1_RX Pin=U4-128
+Added Pin To Net: NetName=USART1_TX Pin=U4-129
+Added Room: Name=pathfinder_sch

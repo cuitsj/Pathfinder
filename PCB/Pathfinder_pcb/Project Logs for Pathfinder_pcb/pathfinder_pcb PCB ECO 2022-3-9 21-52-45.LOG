@@ -1,0 +1,12 @@
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN7 VL53L0X
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN8 VL53L0X
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN10 BAT_2P
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN12 Charge
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN13 Motor1
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN14 MPU9250
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN15 Motor2
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN16 Bluetooth
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN17 TYPE-C
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN18 OLED
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN20 TYPE-C
+Added Room: Name=pathfinder_sch

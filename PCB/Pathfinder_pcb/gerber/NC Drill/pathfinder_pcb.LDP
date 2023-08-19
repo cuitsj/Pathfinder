@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: G:\00pathfinder\PCB\Pathfinder_pcb\pathfinder_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pathfinder_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pathfinder_pcb-slotholes.txt|DrillLayers=gtl,gbl

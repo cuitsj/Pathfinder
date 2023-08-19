@@ -1,0 +1,29 @@
+Change Component Designator: OldDesignator=CN7 NewDesignator=CN8
+Change Component Designator: OldDesignator=CN8 NewDesignator=CN9
+Change Component Designator: OldDesignator=CN9 NewDesignator=CN10
+Change Component Designator: OldDesignator=CN10 NewDesignator=CN11
+Change Component Designator: OldDesignator=CN11 NewDesignator=CN12
+Change Component Designator: OldDesignator=CN12 NewDesignator=CN13
+Change Component Designator: OldDesignator=CN13 NewDesignator=CN14
+Change Component Designator: OldDesignator=CN14 NewDesignator=CN15
+Change Component Designator: OldDesignator=CN15 NewDesignator=CN16
+Change Component Designator: OldDesignator=CN16 NewDesignator=CN17
+Change Component Designator: OldDesignator=CN17 NewDesignator=CN18
+Change Component Designator: OldDesignator=CN18 NewDesignator=CN19
+Change Component Designator: OldDesignator=CN19 NewDesignator=CN20
+Added Component: Designator=CN7(HDR1X6)
+Added Pin To Net: NetName=3.3V Pin=CN7-1
+Added Pin To Net: NetName=GND Pin=CN7-2
+Change Net Name : Old Net Name=NetCN16_A6 New Net Name=NetCN17_A6
+Change Net Name : Old Net Name=NetCN16_A7 New Net Name=NetCN17_A7
+Added Pin To Net: NetName=TOF8_INT Pin=CN7-6
+Added Pin To Net: NetName=TOF8_INT Pin=U4-144
+Added Net: Name=TOF8_INT
+Added Pin To Net: NetName=TOF8_SCL Pin=CN7-3
+Added Pin To Net: NetName=TOF8_SCL Pin=U4-142
+Added Net: Name=TOF8_SCL
+Added Pin To Net: NetName=TOF8_SDA Pin=CN7-4
+Added Pin To Net: NetName=TOF8_SDA Pin=U4-143
+Added Net: Name=TOF8_SDA
+Added Member To Class: ClassName=pathfinder_sch Member=Component CN20 TYPE-C
+Added Room: Name=pathfinder_sch

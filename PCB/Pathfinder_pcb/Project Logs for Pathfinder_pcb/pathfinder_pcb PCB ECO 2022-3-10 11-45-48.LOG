@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-3
+Removed Pin From Net: NetName=NetR3_2 Pin=U3-3
+Added Pin To Net: NetName=NetR3_2 Pin=U1-3
+Added Pin To Net: NetName=NetR1_2 Pin=U3-3
+Added Member To Class: ClassName=pathfinder_sch Member=Component R64 100R
+Added Member To Class: ClassName=pathfinder_sch Member=Component R65 10K
+Added Member To Class: ClassName=pathfinder_sch Member=Component R66 100R
+Added Member To Class: ClassName=pathfinder_sch Member=Component R68 220R
+Added Member To Class: ClassName=pathfinder_sch Member=Component R69 220R
+Added Member To Class: ClassName=pathfinder_sch Member=Component R71 10K
+Added Member To Class: ClassName=pathfinder_sch Member=Component R72 10K
+Added Member To Class: ClassName=pathfinder_sch Member=Component R73 1K
+Added Member To Class: ClassName=pathfinder_sch Member=Component R74 100R
+Added Member To Class: ClassName=pathfinder_sch Member=Component R75 10K
+Added Member To Class: ClassName=pathfinder_sch Member=Component R76 10K
+Added Member To Class: ClassName=pathfinder_sch Member=Component R78 10K
+Added Member To Class: ClassName=pathfinder_sch Member=Component R79 10K
+Added Room: Name=pathfinder_sch

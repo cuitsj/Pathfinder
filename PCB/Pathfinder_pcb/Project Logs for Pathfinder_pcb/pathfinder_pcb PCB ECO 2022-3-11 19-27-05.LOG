@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BT_TXD Pin=U4-52
+Removed Pin From Net: NetName=BT_RXD Pin=U4-53
+Added Pin To Net: NetName=BT_TXD Pin=U4-101
+Added Pin To Net: NetName=BT_RXD Pin=U4-103
+Added Room: Name=pathfinder_sch
